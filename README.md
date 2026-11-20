@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aryan! 👋
 
-<!--
-**Aaryan-codess/Aaryan-codess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. MECS Student | Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm interested in software development, programming, automation, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- 💻 Software Development
+- 🐍 Python Programming
+- ⚙️ Automation
+- 🔐 Cybersecurity & Ethical Hacking
+- 🧩 Problem Solving
+
+### What You'll Find Here
+This profile is where I document my development journey, experiment with ideas, and showcase projects I've worked on.
+
+---
+
+*Turning curiosity into capability.*
